@@ -1,8 +1,8 @@
-# googlyAnn_node_app
+# Welcome to LIRI
 
-Welcome to LIRI!
+## googlyAnn_node_app
 
-Functionality
+### Functionality
 
 1. Search
    - Spotify for songs
@@ -20,7 +20,7 @@ Functionality
          - Band
          - Color
 
-Technology
+### Technology
 
 - HTML
 - CSS
@@ -33,7 +33,7 @@ Technology
   - Moment
   - DotEnv
 
-Support
+### Support
 
 - Platform Support
 - Errors
